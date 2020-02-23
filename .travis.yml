@@ -3,3 +3,4 @@ osx_image: xcode11.3 #2
 xcode_project: TravisSample.xcodeproj #3
 xcode_scheme: TravisSample #4
 xcode_sdk: iphonesimulator13.2 #5
+xcode_destination: platform=iOS Simulator,OS=13.2,name=iPhone X
